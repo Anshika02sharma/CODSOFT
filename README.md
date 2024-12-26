@@ -47,6 +47,7 @@ This repository contains the tasks completed as part of my internship at **Codso
    git clone https://github.com/Anshika02sharma/Codsoft.git
 
  2. Navigate to the project directory:
+    ```bash
     cd Codsoft
 3. Open the respective task folder and launch the index.html file in a web browser.
 
